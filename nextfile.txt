@@ -2,4 +2,4 @@ next file adding
 next file second line from master branch
 next file second line from dev branch
 next file edited from the local machine and remote
-
+next file edited again from remote
