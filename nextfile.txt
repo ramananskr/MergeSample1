@@ -4,3 +4,4 @@ next file second line from dev branch
 next file edited from the local machine and remote
 next file edited again from local m/c
 next file edited again from remote
+next file edited for the sake of remote read
