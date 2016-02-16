@@ -6,4 +6,4 @@ next file edited again from local m/c
 next file edited again from remote
 next file edited for the sake of remote read
 next file edited at the local to test conflict
-
+next file edited again from remote to test conflict
